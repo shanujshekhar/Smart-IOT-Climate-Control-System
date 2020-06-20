@@ -1,0 +1,2882 @@
+[
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": 3.06
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": 3.83
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": 4.16
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": 4.36
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": 4.72
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": 4.9
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": 4.96
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": 5.85
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": 6.17
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": 6.66
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": 6.42
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": 5.94
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": 5.4
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": 5.61
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": 4.88
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": 4.09
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": 3.25
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": 2.08
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": 0.82
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": -0.53
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": -2.86
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": -4.3
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": -5.62
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 16,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": -6.67
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": -7.55
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": -8.13
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": -8.53
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": -9.13
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": -10.1
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": -10.99
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": -11.56
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": -10.22
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": -10.43
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": -9.72
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": -8.53
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": -7.37
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": -6.3
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": -5.5
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": -4.99
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": -5
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": -5.6
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": -6.71
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": -7.23
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": -7.75
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": -8.29
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": -8.77
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": -9.23
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 17,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": -9.65
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": -10.11
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": -10.44
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": -10.41
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": -9.76
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": -9.25
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": -8.86
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": -8.5
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": -6.21
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": -5.59
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": -4.85
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": -3.9
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": -2.98
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": -2.31
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": -2.03
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": -1.75
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": -1.35
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": -2.02
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": -1.28
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": -0.29
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": 0.69
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": 0.94
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": 1.47
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": 2.95
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 18,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": 3.89
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": 3.93
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": 3.19
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": 2.64
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": 2.01
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": 1.6
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": 1.54
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": 1.13
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": -0.77
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": -1
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": 0.3
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": 1.46
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": 1.35
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": 0.97
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": 0.82
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": 0.7
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": 0.25
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": -0.8
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": -2.66
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": -3.86
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": -4.84
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": -5.85
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": -6.6
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": -6.89
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 19,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": -6.83
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": -6.81
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": -7.09
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": -7.6
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": -8.07
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": -8.5
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": -8.94
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": -9.35
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": -10
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": -9.46
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": -8.22
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": -6.71
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": -5.23
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": -3.93
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": -3.14
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": -2.85
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": -3.19
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": -4.11
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": -5.75
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": -6.56
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": -6.92
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": -7.16
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": -7.36
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": -7.51
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 20,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": -7.71
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": -7.93
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": -8.13
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": -8.37
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": -8.65
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": -8.94
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": -9.26
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": -9.57
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": -8.79
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": -7.83
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": -6.12
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": -4.87
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": -3.63
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": -2.55
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": -1.76
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": -1.22
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": -1.13
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": -1.57
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": -3.95
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": -4.81
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": -4.63
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": -4.71
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": -4.97
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": -4.87
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 21,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": -5.08
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": -5.03
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": -5.05
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": -5.06
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": -5.19
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": -5.41
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": -5.59
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": -5.77
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": -7.77
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": -6.48
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": -3.62
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": -1.54
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": -0.39
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": 0.64
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": 1.36
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": 1.71
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": 1.69
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": 1.02
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": -0.92
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": -1.68
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": -2.15
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": -2.49
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": -2.76
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": -3.02
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 22,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": -3.2
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": -3.29
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": -3.22
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": -3.16
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": -3.14
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": -3.04
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": -3.01
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": -3.03
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": -1.99
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": -1.46
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": 0.79
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": 2.54
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": 3.96
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": 5.04
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": 5.64
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": 5.95
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": 5.82
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": 4.71
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": 2.91
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": 2.13
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": 1.71
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": 1.48
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": 1.32
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": 1.24
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 23,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": 1.21
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": 1.26
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": 1.47
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": 1.68
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": 1.91
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": 2.02
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": 2.09
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": 2.12
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": 0.64
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": 0.79
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": 2.84
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": 5.72
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": 7.07
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": 7.65
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": 8.19
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": 8.39
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": 8.1
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": 7.03
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": 4.09
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": 3.68
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": 3.32
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": 2.17
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": 0.97
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": 0.03
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 24,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": 0.01
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": 0.19
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": -0.06
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": -0.32
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": -0.43
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": -0.41
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": -0.18
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": 0.21
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": 0.75
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": 1.61
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": 2.57
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": 4.28
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": 5.93
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": 6.69
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": 7.81
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": 7.35
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": 6.73
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": 6.64
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": 6.52
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": 6.54
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": 6.93
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": 7.23
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": 7.15
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": 6.52
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 25,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": 5.49
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": 5.29
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": 4.68
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": 3.65
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": 2.79
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": 2.2
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": 1.85
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": 1.5
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": 1.1
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": 1.59
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": 3.13
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": 4.83
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": 6.06
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": 6.7
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": 6.89
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": 6.49
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": 6.22
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": 5.81
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": 4.06
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": 3.39
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": 3.26
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": 1.55
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": 0.74
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": 0.71
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 26,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": 0.57
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": 0.19
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": -0.17
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": -0.43
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": -0.57
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": 0.09
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": 0.36
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": 0.67
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": 0.85
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": 1.58
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": 3.03
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": 4.42
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": 4.94
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": 5.14
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": 5.05
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": 5.06
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": 4.84
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": 4.6
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": 4.01
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": 3.55
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": 3.11
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": 2.4
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": 0.84
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": 0
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 27,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": -0.29
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": -0.51
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": -1.12
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": -1.65
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": -1.86
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": -1.94
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": -2.04
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": -2.05
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": -2.01
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": -0.39
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": 1.86
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": 3.03
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": 3.9
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": 4.18
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": 4.38
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": 4.4
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": 4.28
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": 3.87
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": 3.1
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": 2.4
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": 1.83
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": 0.88
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": -0.23
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": -0.98
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 28,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": -1.84
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": -2.26
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": -2.6
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": -2.79
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": -2.97
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": -3.14
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": -3.29
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": -3.37
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": -3.44
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": -2.35
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": -1.08
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": 0.23
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": 1.4
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": 2.45
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": 3.21
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": 3.64
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": 3.62
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": 2.88
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": 1.18
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": -0.27
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": -1.03
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": -1.83
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": -2.7
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": -3.68
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 29,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": -4.5
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature": -4.62
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature": -4.7
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature": -4.72
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature": -4.74
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature": -4.67
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature": -4.67
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature": -4.71
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature": -4.63
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature": -4.04
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature": -2.89
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature": -1.52
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature": -0.3
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature": 0.84
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature": 1.72
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature": 2.25
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature": 2.32
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature": 1.96
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature": 1.03
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature": 0.18
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature": -0.16
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature": -0.3
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature": -0.27
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature": -0.22
+  },
+  {
+    "Year": 2020,
+    "Month": "01",
+    "Day": 30,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature": -0.18
+  }
+]
